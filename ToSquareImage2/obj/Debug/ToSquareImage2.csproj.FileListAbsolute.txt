@@ -1,0 +1,10 @@
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\bin\Debug\ToSquareImage2.exe.config
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\bin\Debug\ToSquareImage2.exe
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\bin\Debug\ToSquareImage2.pdb
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\obj\Debug\ToSquareImage2.csprojResolveAssemblyReference.cache
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\obj\Debug\ToSquareImage2.Form1.resources
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\obj\Debug\ToSquareImage2.Properties.Resources.resources
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\obj\Debug\ToSquareImage2.csproj.GenerateResource.cache
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\obj\Debug\ToSquareImage2.csproj.CoreCompileInputs.cache
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\obj\Debug\ToSquareImage2.exe
+E:\VS2017\Project\ToSquareImage2\ToSquareImage2\obj\Debug\ToSquareImage2.pdb
